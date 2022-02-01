@@ -1,9 +1,9 @@
 let todayDate = document.getElementById("currentDay");
 let saveButtons = document.getElementsByClassName("saveBtn");
-const options = {weekday:"long", year:"numeric", month:"long", day:"numeric"};
-let hourOfDay = new Date().getHours();
-todayDate.textContent = new Date().toLocaleDateString('en-US',options);
+let hourOfDay = moment().format('H');
 
+//set date field to current day, month, day, year
+todayDate.textContent = moment().format('dddd, MMMM Do YYYY');
 
 for (let index = 0; index < saveButtons.length; index++) {
     let adjust = index + 9;
