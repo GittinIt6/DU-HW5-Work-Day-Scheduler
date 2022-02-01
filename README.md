@@ -6,4 +6,4 @@ DU Coding Bootcamp Homework 5: Work Day Scheduler
 
 This is a website with dynamically updated content via JavaScript.
 
-Public Website Address: https://gittinit6.github.io/DU-HW4-Code-Quiz/
+Public Website Address: https://gittinit6.github.io/DU-HW5-Work-Day-Scheduler/
