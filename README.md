@@ -24,9 +24,7 @@ The intended audience is an individual that would have a need for a simple daily
 
 ## Technical Detail
 
-This website uses HTML with an external linked CSS for style and external linked JavaScript code for functionality.
-
-It uses a grid using bootstrap.
+This website uses HTML with an external linked CSS for style and external linked JavaScript code for functionality. It uses a grid using bootstrap and moment for calculating time.
 
 **Responsive Design:** This website is designed to be responsive to smaller screens.
 
@@ -43,12 +41,20 @@ Root Directory
     └─── images (folder containing all image resources)
     │
     └─── scripts (folder containing JavaScript files)
+
+External Resources
+[bootstrap]
+[fontawesome]
+[google fonts]
+[moment]
 ```
 >**CSS**: This site uses a single CSS file "style.css"
 
 >**JavaScript**: This site uses a single JavaScript file "script.js"
 
 >**Bootstrap**: This site uses grid fuctionality within bootstrap"
+
+>**Moment**: This site uses moment to calculate time"
 
 The following image shows a screenshot of the website homepage:
 
