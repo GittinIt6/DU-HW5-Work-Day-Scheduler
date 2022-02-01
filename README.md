@@ -52,9 +52,9 @@ External Resources
 
 >**JavaScript**: This site uses a single JavaScript file "script.js"
 
->**Bootstrap**: This site uses grid fuctionality within bootstrap"
+>**Bootstrap**: This site uses grid fuctionality within bootstrap
 
->**Moment**: This site uses moment to calculate time"
+>**Moment**: This site uses moment to calculate time
 
 The following image shows a screenshot of the website homepage:
 
